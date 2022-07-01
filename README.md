@@ -1,0 +1,2 @@
+# QuazarFuruteTech
+readme.md
